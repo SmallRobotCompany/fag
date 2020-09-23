@@ -2,3 +2,7 @@
    font-family: 'Futura T Light Regular';
    src: url('Futura T Light Regular/font.ttf');
 }
+@font-face {
+   font-family: 'futura medium bt';
+   src: url('futura medium bt/font.ttf');
+}
