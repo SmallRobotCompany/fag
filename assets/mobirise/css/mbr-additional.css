@@ -1196,81 +1196,81 @@ section.lazy-placeholder:after {
   background: #3d3d3d;
   background: linear-gradient(90deg, #3d3d3d, #232323);
 }
-.cid-sbpI4P6PAK {
+.cid-sdRUqUFidl {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-sbpI4P6PAK .mbr-section-subtitle {
+.cid-sdRUqUFidl .mbr-section-subtitle {
   color: #767676;
 }
-.cid-sbpI4P6PAK .container-table {
+.cid-sdRUqUFidl .container-table {
   margin: 0 auto;
 }
-.cid-sbpI4P6PAK .scroll {
+.cid-sdRUqUFidl .scroll {
   overflow-x: auto;
   padding: 0;
 }
-.cid-sbpI4P6PAK .dataTables_wrapper {
+.cid-sdRUqUFidl .dataTables_wrapper {
   display: block;
 }
-.cid-sbpI4P6PAK .dataTables_wrapper .search {
+.cid-sdRUqUFidl .dataTables_wrapper .search {
   margin-bottom: .5rem;
 }
-.cid-sbpI4P6PAK .dataTables_wrapper .table {
+.cid-sdRUqUFidl .dataTables_wrapper .table {
   overflow-x: auto;
 }
-.cid-sbpI4P6PAK table {
+.cid-sdRUqUFidl table {
   width: 100% !important;
   margin-top: 6px;
   border: 1px solid #efefef;
   margin-bottom: 0;
 }
-.cid-sbpI4P6PAK table th {
+.cid-sdRUqUFidl table th {
   border-top: none;
   transition: all .2s;
   border-bottom: none;
 }
-.cid-sbpI4P6PAK table th:hover {
+.cid-sdRUqUFidl table th:hover {
   background: #efefef;
   color: #000000;
 }
-.cid-sbpI4P6PAK table td {
+.cid-sdRUqUFidl table td {
   border-top: 1px solid #efefef;
 }
-.cid-sbpI4P6PAK table.table {
+.cid-sdRUqUFidl table.table {
   background: #ffffff;
 }
-.cid-sbpI4P6PAK .dataTables_filter {
+.cid-sdRUqUFidl .dataTables_filter {
   text-align: right;
   margin-bottom: .5rem;
 }
-.cid-sbpI4P6PAK .dataTables_filter label {
+.cid-sdRUqUFidl .dataTables_filter label {
   display: inline;
   white-space: normal !important;
 }
-.cid-sbpI4P6PAK .dataTables_filter input {
+.cid-sdRUqUFidl .dataTables_filter input {
   display: inline;
   width: auto;
   margin-left: .5rem;
   border-radius: 100px;
   padding-left: 1rem;
 }
-.cid-sbpI4P6PAK .dataTables_info {
+.cid-sdRUqUFidl .dataTables_info {
   padding-bottom: 1rem;
   padding-top: 1rem;
   white-space: normal !important;
 }
 @media (max-width: 992px) {
-  .cid-sbpI4P6PAK .dataTables_filter {
+  .cid-sdRUqUFidl .dataTables_filter {
     text-align: center;
   }
 }
 @media (max-width: 350px) {
-  .cid-sbpI4P6PAK .dataTables_filter {
+  .cid-sdRUqUFidl .dataTables_filter {
     text-align: center;
   }
-  .cid-sbpI4P6PAK .dataTables_filter input {
+  .cid-sdRUqUFidl .dataTables_filter input {
     width: 100% !important;
     margin-left: 0 !important;
   }
